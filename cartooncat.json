@@ -1,0 +1,47 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "9c9fe6079b591cb9",
+            "max_int": "d4c24cc340f9a2ff",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Cartoon Cat",
+            "photo": "https://i.postimg.cc/xCxLCLKT/wonder-day-wallpapers-cartoon-cat-38.jpg",
+            "voice": "http://fackcall.epizy.com/wp-content/uploads/2022/06/voice_1.mp3",
+            "video": "http://fackcall.epizy.com/wp-content/uploads/2022/06/hero_video.mp4",
+            "stories": [
+              "https://i.postimg.cc/nL1vyyrm/wonder-day-wallpapers-cartoon-cat-26.jpg",
+"https://i.postimg.cc/rFdNDZZ6/wonder-day-wallpapers-cartoon-cat-34.jpg",
+"https://i.postimg.cc/wx4kTYVc/wonder-day-wallpapers-cartoon-cat-36.jpg",
+"https://i.postimg.cc/T3gj9LXC/wonder-day-wallpapers-cartoon-cat-37.jpg",
+"https://i.postimg.cc/xCxLCLKT/wonder-day-wallpapers-cartoon-cat-38.jpg",
+"https://i.postimg.cc/L55BBxH1/wonder-day-wallpapers-cartoon-cat-4.jpg",
+"https://i.postimg.cc/SRPLZcst/wonder-day-wallpapers-cartoon-cat-8.jpg"
+               
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/28PFhdg1/wonder-day-wallpapers-cartoon-cat-10.jpg",
+"https://i.postimg.cc/bvPxFyy8/wonder-day-wallpapers-cartoon-cat-21.jpg",
+"https://i.postimg.cc/d1t8w5Zx/wonder-day-wallpapers-cartoon-cat-22.jpg",
+"https://i.postimg.cc/nL1vyyrm/wonder-day-wallpapers-cartoon-cat-26.jpg",
+"https://i.postimg.cc/rFdNDZZ6/wonder-day-wallpapers-cartoon-cat-34.jpg",
+"https://i.postimg.cc/wx4kTYVc/wonder-day-wallpapers-cartoon-cat-36.jpg",
+"https://i.postimg.cc/T3gj9LXC/wonder-day-wallpapers-cartoon-cat-37.jpg",
+"https://i.postimg.cc/xCxLCLKT/wonder-day-wallpapers-cartoon-cat-38.jpg",
+"https://i.postimg.cc/L55BBxH1/wonder-day-wallpapers-cartoon-cat-4.jpg",
+"https://i.postimg.cc/SRPLZcst/wonder-day-wallpapers-cartoon-cat-8.jpg"
+
+            ]
+          
+        }
+    ]
+}
